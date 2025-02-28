@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /authentication
+  port: 8082
+
+jwt:
+  secret: MiAVzqUXy5Tfr1kVIGpPMiAVzqUXy5Tfr1kVIGpP
+  expiration: 86400
